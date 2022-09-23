@@ -1,0 +1,4 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteRule   ^login   main_login.php [NC,L]
